@@ -8,6 +8,7 @@
 
 ${\textsf{\color{#00a383}- Olivia O., "Mantis"}}$
 
+# ![](https://komarev.com/ghpvc/?username=sociomantis&label=V+I+E+W+S&color=1fffd2)
 
 <h2>${\textsf{\color{#00ffcc}intro}}$</h2>
 <h3>${\textsf{\color{#00A383}basics}}$</h3>

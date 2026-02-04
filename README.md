@@ -9,7 +9,7 @@
 ${\textsf{\color{#00a383}- Olivia O., "Mantis"}}$
 
 # ![](https://komarev.com/ghpvc/?username=sociomantis&label=V+I+E+W+S&color=1fffd2)
-
+^^^ reset 02/03/2026
 <div> 
 <hr>
 <details align="left">

@@ -10,9 +10,11 @@ ${\textsf{\color{#00a383}- Olivia O., "Mantis"}}$
 
 # ![](https://komarev.com/ghpvc/?username=sociomantis&label=V+I+E+W+S&color=1fffd2)
 
-<h2>${\textsf{\color{#00ffcc}intro}}$</h2>
-<h3>${\textsf{\color{#00A383}basics}}$</h3>
-
+<div> 
+<hr>
+<details align="left">
+<summary> <h3>${\textsf{\color{#00A383}basics}}$</h3> </summary>
+	
 ꒰ 17 ꒱ ✦ ꒰ artist ꒱ ✦ ꒰ writer ꒱ ✦ ꒰ sometimes a musician ꒱ ✦ ꒰ they/it/bug/he ꒱
 
 ꒰ lesboy ꒱ ✦ ꒰ nonbinary ꒱ ✦ ꒰ genderqueer ꒱ ✦ ꒰ transgender ꒱
@@ -20,8 +22,13 @@ ${\textsf{\color{#00a383}- Olivia O., "Mantis"}}$
 ꒰ fagdyke ꒱ ✦ ꒰ gaybian ꒱ ✦ ꒰ bisexual lesbian ꒱ ✦ ꒰ demisexual & autosexual ꒱
 
 ꒰ psych student ꒱ ✦ ꒰ cat parent ꒱ ✦ ꒰ archivist ꒱ ✦ ꒰ anti-genocide and colonialism ꒱ ✦
+</details>
+</div>
 
-<h3>${\textsf{\color{#00A383}fandoms}}$</h3>
+<div> 
+<hr>
+<details align="left">
+<summary> <h3>${\textsf{\color{#00A383}fandoms}}$</h3> </summary>
 
 ꒰ spookymonth ꒱ ❤︎ ꒰ no, i am not a human ꒱ ❤︎ ꒰ hollow knight ꒱
 
@@ -30,9 +37,13 @@ ${\textsf{\color{#00a383}- Olivia O., "Mantis"}}$
 ꒰ steven universe ꒱ ❤︎ ꒰ undertale ꒱ ❤︎ ꒰ animal crossing ꒱
 
 ꒰ laceys games ꒱ ❤︎ ꒰ serial experiments lain ꒱
+</details>
+</div>
 
-<h2>${\textsf{\color{#00ffcc}before you follow}}$</h2>
-
+<div> 
+<hr>
+<details align="left">
+<summary> <h3>${\textsf{\color{#00A383}before you follow (byf)}}$</h3> </summary>
 - I block very liberally, and if possible, like to mutually block people as well.
 
 - do not involve me in fandom or ship discourse.
@@ -59,4 +70,23 @@ ${\textsf{\color{#00a383}- Olivia O., "Mantis"}}$
     - think bugs can't feel pain
 			- (don't touch me within a ten-foot pole)
 - you are at very high risk of being blocked by me, as you are not someone I'd wish to be associated with.
+</details>
+</div>
+
+> [!CAUTION]
+> PHOTOSENSITIVE AND POSSIBLY DISTURBING IMAGERY UP AHEAD, PROCEED WITH CAUTION.
+<div> 
+<hr>
+<details align="left">
+<summary> <h3>${\textsf{\color{#00A383}graphics collection (HEAVY WIP)}}$</h3> </summary>
+
+<img src="https://files.catbox.moe/oj3p98.webp"> <img src="https://files.catbox.moe/rvdfqj.png"> <img src="https://files.catbox.moe/hucsoy.webp"> <img src="https://files.catbox.moe/c0t6t5.png"> <img src="https://files.catbox.moe/l0ygpa.jpg">
+
+<img src="https://files.catbox.moe/lscw84.webp"> <img src="https://files.catbox.moe/es3m3b.webp"> <img src="https://files.catbox.moe/799qgc.webp"> <img src="https://files.catbox.moe/mx0t8e.webp"> <img src="https://files.catbox.moe/ro8ego.webp">
+
+<img src="https://files.catbox.moe/bovbvu.webp"> <img src="https://files.catbox.moe/6l7ive.webp"> <img src="https://files.catbox.moe/tnajn5.webp"> <img src="https://files.catbox.moe/zpnuqu.webp"> <img src="https://files.catbox.moe/vdv8nm.webp">
+
+</div>
+</details>
+
 <img src="https://i.postimg.cc/XYv9Wkhr/image-2024-05-23-230305777.png">

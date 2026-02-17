@@ -24,24 +24,30 @@ ${\textsf{\color{#00a383}- Olivia O., "Mantis"}}$
 	- If you must know? Ask me privately. If you have an issue with that or what I respond with? Block me, I do not care.
 
 - I have no definitive DNI, and will leave it up to you whether or not you wish to engage in my content. I will warn you, howerver, that if you are any of the following:
-	- racist
-	- queerphobic
-	- transphobic
-	- ableist
-	- radqueer and/or xenosatanist
-	- actively identify as "conservative"
-	- pro-harassment
-	  - (I'm sorry but this includes a lot of radical antis)
-	- anti-recovery
-	- anti science
-		- deny the existence of dinosaurs
-			- (i know this sounds like a joke next to racism of all thing but these people actually piss me off to such a violent extent that it actually triggers me)
-		- think bugs aren't apart of the animal kingdom
-			- (again I know that sounds stupid but genuinely you are so fucking annoying to me)
-    - think bugs can't feel pain
-			- (don't touch me within a ten-foot pole)
-	- anti-psychology
-	- anti-psychiatry
+	- Bigoted
+		- Racist
+		- Queerphobic
+		- Transphobic
+		- Ableist
+		- Actively identify as "conservative"
+		- Align with the MAGA political party
+		- Self-identify as a nazi/neo-nazi
+	- Radqueer and/or Xenosatanist
+		- TransRace
+		- TransAge
+		- TransDisabled
+		- Pro-contact or Neutral-contact harmful paraphilic attractions
+	- Anti-science
+		- Anti-psychology
+		- Anti-psychiatry
+		- Deny the existence of dinosaurs
+			- (i know this is so ridiculous to put next to radqueers and paraphilic disorders of all things but genuinely leave me the fuck alone you piss me off so bad)
+		- Believe bugs cannot feel pain and use it as justification for animal torture
+			- (also leave me the fuck alone you're weird as fuck)
+	- Chronically online
+		- Prioritize fiction over the wellbeings of real life people
+		- Actively participate in cancel culture
+		- Pro-harrassment for any reason
 - you are at very high risk of being blocked by me, as you are not someone I'd wish to be associated with.
 </details>
 </div>
@@ -80,10 +86,12 @@ ${\textsf{\color{#00a383}- Olivia O., "Mantis"}}$
 <hr>
 <details align="left">
 <summary> <h3>${\textsf{\color{#00A383}F/Os (sharing!)}}$</h3> </summary>
+	
 - Spooky Month
 	- Dexter Erotoph
 - Monster Prom
 	- Liam De Lioncourt
+	- Omen
 - Animal Crossing
 	- Flick
 	- Marina
